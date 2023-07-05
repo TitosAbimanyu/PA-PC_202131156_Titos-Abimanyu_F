@@ -45,7 +45,8 @@ def remove_background(image_path, background_path):
     # Memanggil fungsi remove_background dengan gambar asli dan gambar latar belakang
     remove_background('gambar_asli.jpg', 'gambar_latar_belakang.jpg')
 
+![image](https://github.com/TitosAbimanyu/PA-PC_202131156_Titos-Abimanyu_F/assets/114853614/7f465f13-b499-4638-a7d3-176da3a0785b)
 
 
-##Kesimpulan
+## Kesimpulan
 Penghapusan latar belakang gambar merupakan teknik yang penting dalam bidang pengolahan gambar. Dalam makalah ini, kami memperkenalkan metode penghapusan latar belakang menggunakan library OpenCV dalam bahasa pemrograman Python. Kami menjelaskan langkah-langkah yang diperlukan untuk menghapus latar belakang gambar menggunakan algoritma pemrosesan citra yang tersedia dalam OpenCV. Implementasi kode yang diberikan memberikan contoh bagaimana teknik ini dapat diterapkan dalam praktik. Metode ini dapat digunakan dalam berbagai aplikasi yang membutuhkan penghapusan latar belakang gambar.
